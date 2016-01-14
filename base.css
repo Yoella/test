@@ -1,0 +1,79 @@
+*
+{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+
+body
+{
+	background:#ebe9eb;
+	
+}
+
+.box
+{
+	width:90%;
+	height:250px;
+	background:#ab95b0;
+}
+
+.row
+{
+	padding:2px;
+}
+
+.col-md-4
+{
+	width:32%;
+	background:#fff;
+	margin:2px;
+}
+.small-box
+{
+	border:solid 1px;
+	background:#ebe9eb;
+	text-align:center;
+}
+
+h2
+{
+	text-align:center;
+}
+
+.unstyled
+{
+	list-style: none;
+}
+
+.name
+{
+	display:inline-block;
+	width: 30%;
+	vertical-align:top;
+}
+.oppen
+{
+	display:inline-block;
+	width:20%;
+	vertical-align:top;
+}
+.contact
+{
+	display:inline-block;
+	width:20%;
+	vertical-align:top;
+}
+
+footer
+{
+	text-align:center;
+	padding:20px;
+}
+
+.container .test li
+{
+	display: inline;
+}
+
+
